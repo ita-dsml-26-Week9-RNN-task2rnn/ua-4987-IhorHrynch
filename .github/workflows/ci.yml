@@ -29,4 +29,4 @@ jobs:
 
       - name: Run tests
         run: |
-          python -m pytest -v tests/test_simple_forecast.py
+          python -m pytest -v tests/test_multistep_forecast.py
